@@ -1,0 +1,10 @@
+D:\raiz\raiz\bin\Debug\raiz.exe.config
+D:\raiz\raiz\bin\Debug\raiz.exe
+D:\raiz\raiz\bin\Debug\raiz.pdb
+D:\raiz\raiz\obj\Debug\raiz.csprojAssemblyReference.cache
+D:\raiz\raiz\obj\Debug\raiz.Form1.resources
+D:\raiz\raiz\obj\Debug\raiz.Properties.Resources.resources
+D:\raiz\raiz\obj\Debug\raiz.csproj.GenerateResource.cache
+D:\raiz\raiz\obj\Debug\raiz.csproj.CoreCompileInputs.cache
+D:\raiz\raiz\obj\Debug\raiz.exe
+D:\raiz\raiz\obj\Debug\raiz.pdb
